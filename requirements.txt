@@ -1,0 +1,5 @@
+pysrt
+moviepy
+python-dotenv
+sentence-transformers
+pyttsx3
